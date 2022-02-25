@@ -19,7 +19,7 @@ export const Selection: React.FC = () => {
   const curtime = Math.round(new Date().getTime()/1000);
   const from = 'zh-CHS';
   const to = 'en';
-  // 请填写 deepl 翻译所需要的参数
+  // 请填写 deepl 翻译所需要的参数 authKey
   const authKey = ''
   const source_lang = 'ZH';
   const target_lang = 'EN-US';
