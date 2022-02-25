@@ -1,1 +1,3 @@
-# Translate-Cells-Vika-Widget-
+# 开发者模板小组件
+
+展示 widget-sdk 的基础能力，快速了解维格表小组件开发中可以使用的 SDK 功能

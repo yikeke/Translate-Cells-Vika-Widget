@@ -1,0 +1,17 @@
+{
+  "packageId": "wpkRi1196DMSe",
+  "spaceId": "spcUnEhN0PJcs",
+  "entry": "./src/index.tsx",
+  "name": {
+    "zh-CN": "单元格翻译",
+    "en-US": "Cell Translator"
+  },
+  "icon": "./package_icon.png",
+  "cover": "./cover.png",
+  "authorIcon": "./author_icon.png",
+  "description": {
+    "zh-CN": "当选中一个单行/多行文本列的单元格时，实时获取有道和 DeepL 机器翻译的结果",
+    "en-US": "Get machine translation results from Youdao and DeepL when you select a cell in a single/multi-line text field"
+  },
+  "globalPackageId": "wpkSybhcxsmGM"
+}
